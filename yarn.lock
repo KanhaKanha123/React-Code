@@ -8993,8 +8993,8 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
 nwmatcher@^1.4.3:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/nwmatcher/-/nwmatcher-1.4.3.tgz#64348e3b3d80f035b40ac11563d278f8b72db89c"
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/nwmatcher/-/nwmatcher-1.4.4.tgz#2285631f34a95f0d0395cd900c96ed39b58f346e"
 
 nyc@^11.4.1:
   version "11.4.1"
@@ -10626,6 +10626,14 @@ react-split-pane@^0.1.74:
     inline-style-prefixer "^3.0.6"
     prop-types "^15.5.10"
     react-style-proptype "^3.0.0"
+
+react-step-wizard@^4.1.1:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/react-step-wizard/-/react-step-wizard-4.4.0.tgz#b899de307550e0f39c5b66b1d891267d6c4a52e0"
+
+react-stepzilla@^4.7.2:
+  version "4.8.0"
+  resolved "https://registry.yarnpkg.com/react-stepzilla/-/react-stepzilla-4.8.0.tgz#b775801fcc39b9852945473e5ce2410a98a0df66"
 
 react-style-proptype@^3.0.0:
   version "3.2.0"
