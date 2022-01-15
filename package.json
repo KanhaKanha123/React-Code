@@ -154,7 +154,7 @@
     "reselect-map": "^1.0.3",
     "rimraf": "^2.6.1",
     "sass-loader": "^6.0.3",
-    "shelljs": "^0.7.7",
+    "shelljs": "^0.8.5",
     "shx": "^0.2.2",
     "stacktrace-js": "^2.0.0",
     "storybook": "0.0.0",
